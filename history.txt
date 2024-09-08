@@ -1,0 +1,20 @@
+ls
+cd .
+cd ..
+cd xy
+cd abcd
+echo ccd dcdc vvd "hello    "   dvd vdvv vcv
+echo "hello "hello" hello" fdfd" cfxc fdff ffdsf
+echo "hello"
+echo "hello"
+echo "hello"
+echo "hello"
+echo "hello"
+echo "hello "hello" cvv"
+history
+echo "hello"
+exit
+exit
+
+search abcd scdc
+search abcd scsc
